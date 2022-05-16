@@ -1,6 +1,6 @@
 Hello! My name is Kamrun Nahar and I am from Brooklyn, NY.
 
-The following test script is to demonstrate how a user can go to Amazon and search for a pair of sunglasses specifically from the brand Oakley, and add in two units of their selected choice to their cart.
+The following test script is to demonstrate how a user can go to Amazon and search for a pair of sunglasses specifically from the brand Oakley, and add in two units of their selected choice to their cart. I used Java Selenium to write this code.
 
 The test scenario consists of the user already having an Amazon account and being logged in.
 
